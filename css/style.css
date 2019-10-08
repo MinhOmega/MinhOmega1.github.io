@@ -190,7 +190,7 @@
 }
 .nho:hover {
 	color:white;
-	background:orange;
+	background:#ff6600;
 }
 
 .tren {
@@ -303,12 +303,14 @@
 	bottom: 0;
 	left: 0;
 	width: 75px;
+	
 }
 .sp-price ins {
     color: red;
     font-size: 18px;
 	line-height: 20px;
 	text-decoration: none;
+	font-weight: bold;
 }
 div#TextHTML-Module {
     max-width: 970px;
